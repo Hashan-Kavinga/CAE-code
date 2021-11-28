@@ -1,0 +1,4 @@
+CompareHU is a function where you can plot the endmembers and calculate SAD and RMSE values.
+
+Import the csv data saved from python script.
+Run the function (Note: A=End_Members, S=Abundances)
